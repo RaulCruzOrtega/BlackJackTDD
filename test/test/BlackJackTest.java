@@ -8,7 +8,6 @@ import org.junit.Test;
 import test.BlackJackTest.Card;
 import static test.BlackJackTest.Card.*;
 
-
 public class BlackJackTest {
     @Test
     public void test_value_one_card(){
